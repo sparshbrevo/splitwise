@@ -1,5 +1,3 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
 class User:
     def __init__(self, user_id, name):
         self.user_id = user_id
